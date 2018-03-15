@@ -1,0 +1,1 @@
+#tecnica de aceptacion rechazo para variables continuas
